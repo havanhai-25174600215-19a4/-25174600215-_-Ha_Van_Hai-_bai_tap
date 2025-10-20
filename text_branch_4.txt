@@ -1,1 +1,2 @@
-Học phần: Tin cơ sở cho ngành KHDL\n\n\nCras ac mi nec nisi porta ultrices sed non ante.
+Học phần: Tin cơ sở cho ngành KHDL
+Cras ac mi nec nisi porta ultrices sed non ante.
